@@ -94,9 +94,9 @@ With expertise spanning **full-stack development**, **machine learning**, and **
 
 I'm always open to collaborating on **innovative projects**, discussing **technical challenges**, or exploring **opportunities** that push the boundaries of what's possible.
 
-- **Email**: [Get in touch](mailto:your-email@example.com)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/your-profile)
-- **Portfolio**: [View my work](https://github.com/AdityaPrakash781/Portfolio)
+- **Email**: [Get in touch](mailto:adiprakash.business@gmail.com)
+- **LinkedIn**: [Connect with me](www.linkedin.com/in/aditya-prakash-206341293)
+- **Portfolio**: [View my work](https://adityaprakash35-portfolio.vercel.app/)
 
 ---
 
