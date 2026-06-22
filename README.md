@@ -6,37 +6,37 @@ With expertise spanning **full-stack development**, **machine learning**, and **
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
-- 🤖 **AI-Driven Intelligence**: Leveraging Computer Vision, Physics-Informed Neural Networks, and Explainable AI to solve critical infrastructure challenges
-- 🏗️ **Full-Stack Development**: Building responsive, scalable web applications with modern TypeScript, React, and backend frameworks
-- 📊 **Data Engineering & Analytics**: Developing data-driven insights from government datasets and complex information systems
-- ⚙️ **DevOps & Infrastructure**: Designing automated deployment pipelines and system architecture for production environments
-- 🎯 **Problem-Solving**: Translating business requirements into elegant technical solutions with a focus on innovation and code quality
+- **AI-Driven Intelligence**: Leveraging Computer Vision, Physics-Informed Neural Networks, and Explainable AI to solve critical infrastructure challenges
+- **Full-Stack Development**: Building responsive, scalable web applications with modern TypeScript, React, and backend frameworks
+- **Data Engineering & Analytics**: Developing data-driven insights from government datasets and complex information systems
+- **DevOps & Infrastructure**: Designing automated deployment pipelines and system architecture for production environments
+- **Problem-Solving**: Translating business requirements into elegant technical solutions with a focus on innovation and code quality
 
 ---
 
-## 🧠 Featured Projects
+## Featured Projects
 
-### 🔧 [Pipeline Integrity Digital Twin](https://github.com/AdityaPrakash781/Pipeline-Integrity-Digital-Twin)
+### [Pipeline Integrity Digital Twin](https://github.com/AdityaPrakash781/Pipeline-Integrity-Digital-Twin)
 **Production-grade MVP for Oil & Gas Infrastructure Monitoring**
 - **Description**: AI-powered system for monitoring pipeline integrity using Computer Vision, Physics-Informed Neural Networks (PINNs), and Explainable AI
 - **Tech Stack**: React • TypeScript • React-Three-Fiber • Zustand • Recharts • Tailwind CSS • Express • WebSocket
 - **Impact**: Demonstrates enterprise-level architecture combining frontend visualization, real-time data processing, and ML-driven predictions for critical infrastructure
 
-### 📍 [LRI Index India](https://github.com/AdityaPrakash781/LRI_Index-India)
+### [LRI Index India](https://github.com/AdityaPrakash781/LRI_Index-India)
 **Location Resilience Index Platform**
 - **Description**: Comprehensive resilience analytics platform leveraging official Indian government datasets to compute location-based resilience metrics
 - **Tech Stack**: JavaScript • Government Data APIs • Data Processing Pipeline
 - **Impact**: Transforms raw government data into actionable intelligence for decision-makers
 
-### 💼 [Portfolio](https://github.com/AdityaPrakash781/Portfolio)
+### [Portfolio](https://github.com/AdityaPrakash781/Portfolio)
 **Professional Portfolio & Showcase**
 - **Description**: Curated showcase of projects, expertise, and professional journey
 - **Tech Stack**: TypeScript • Modern Web Technologies
 - **Impact**: Clean, professional presentation of technical capabilities
 
-### 🌐 [Web Fundamentals](https://github.com/AdityaPrakash781/HTML-CSS-JS)
+### [Web Fundamentals](https://github.com/AdityaPrakash781/HTML-CSS-JS)
 **Front-End Development Foundation**
 - **Description**: Collection of HTML, CSS, and JavaScript implementations demonstrating core web development principles
 - **Tech Stack**: HTML • CSS • JavaScript
@@ -44,7 +44,7 @@ With expertise spanning **full-stack development**, **machine learning**, and **
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -73,7 +73,7 @@ With expertise spanning **full-stack development**, **machine learning**, and **
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaPrakash781&show_icons=true&theme=dark&count_private=true)
 
@@ -81,16 +81,16 @@ With expertise spanning **full-stack development**, **machine learning**, and **
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## Currently Learning & Exploring
 
-- 📡 **Advanced ML Architectures**: Deepening expertise in Physics-Informed Neural Networks and their real-world applications
-- 🔍 **Explainable AI**: Developing interpretable models for high-stakes decision-making scenarios
-- 🚀 **Scalable System Design**: Mastering distributed systems and cloud-native architecture patterns
-- 💡 **Emerging Technologies**: Staying current with developments in AI, edge computing, and IoT
+- **Advanced ML Architectures**: Deepening expertise in Physics-Informed Neural Networks and their real-world applications
+- **Explainable AI**: Developing interpretable models for high-stakes decision-making scenarios
+- **Scalable System Design**: Mastering distributed systems and cloud-native architecture patterns
+- **Emerging Technologies**: Staying current with developments in AI, edge computing, and IoT
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to collaborating on **innovative projects**, discussing **technical challenges**, or exploring **opportunities** that push the boundaries of what's possible.
 
@@ -100,7 +100,7 @@ I'm always open to collaborating on **innovative projects**, discussing **techni
 
 ---
 
-### ⚡ Fun Facts
+### Fun Facts
 
 - I thrive at the intersection of **AI and infrastructure**
 - Passionate about **production-grade solutions** that scale
