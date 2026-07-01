@@ -30,13 +30,13 @@ With expertise spanning **full-stack development**, **machine learning**, and **
 - **Tech Stack**: NLP • Vector Search • Workflow Orchestration • REST APIs
 - **Impact**: Coordinates task-specific agents (Drafting, Research, Compliance) through a modular orchestration engine
 
-### Physics-Informed Spatio-Temporal GNN for Urban Heat Prediction
+### [Physics-Informed Spatio-Temporal GNN for Urban Heat Prediction(https://github.com/AdityaPrakash781/PhyRes-PINN-UHI-Diagnostics.git)]
 **Graph Neural Network for Urban Heat Island Forecasting**
 - **Description**: Physics-guided spatio-temporal GNN forecasting next-hour urban air temperature across 1,867 spatial nodes, using Dynamic Causal Pruning of graph edges based on wind vector alignment
 - **Tech Stack**: PyTorch • PyTorch Geometric • GeoPandas • ERA5 Climate Data
 - **Impact**: Reduced training loss by 95% over 40 epochs and resolved GNN over-smoothing via PairNorm and residual connections
 
-### Touchless UI & Air-Writing Interaction System
+### [Touchless UI & Air-Writing Interaction System(https://github.com/AdityaPrakash781/Touchless-UI-and-3D-Drawing.git)]
 **Gesture-Controlled Desktop Application**
 - **Description**: Cross-platform desktop app for touchless human-computer interaction, combining real-time gesture-based media control with spatial air-writing character recognition
 - **Tech Stack**: Python • OpenCV • TensorFlow • PyQt6 • MediaPipe
