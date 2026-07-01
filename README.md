@@ -8,39 +8,39 @@ With expertise spanning **full-stack development**, **machine learning**, and **
 
 ##  What I Do
 
-- **AI-Driven Intelligence**: Leveraging Computer Vision, Physics-Informed Neural Networks, and Explainable AI to solve critical infrastructure challenges
+- **Agentic AI Systems**: Building stateful, autonomous agents with LangGraph, RAG pipelines, and vector search for real-world decision-making
+- **AI-Driven Intelligence**: Leveraging Computer Vision, Graph Neural Networks, and Physics-Informed Machine Learning to solve complex domain challenges
 - **Full-Stack Development**: Building responsive, scalable web applications with modern TypeScript, React, and backend frameworks
-- **Data Engineering & Analytics**: Developing data-driven insights from government datasets and complex information systems
-- **DevOps & Infrastructure**: Designing automated deployment pipelines and system architecture for production environments
+- **Data Engineering & Analytics**: Developing data-driven insights from complex, high-dimensional datasets
 - **Problem-Solving**: Translating business requirements into elegant technical solutions with a focus on innovation and code quality
 
 ---
 
 ## Featured Projects
 
-### [Pipeline Integrity Digital Twin](https://github.com/AdityaPrakash781/Pipeline-Integrity-Digital-Twin)
-**Production-grade MVP for Oil & Gas Infrastructure Monitoring**
-- **Description**: AI-powered system for monitoring pipeline integrity using Computer Vision, Physics-Informed Neural Networks (PINNs), and Explainable AI
-- **Tech Stack**: React • TypeScript • React-Three-Fiber • Zustand • Recharts • Tailwind CSS • Express • WebSocket
-- **Impact**: Demonstrates enterprise-level architecture combining frontend visualization, real-time data processing, and ML-driven predictions for critical infrastructure
+### [VytalCare — Agentic RAG Health System](https://health-navigator-copy.vercel.app/)
+**Agentic AI Health Companion**
+- **Description**: RAG-powered health assistant using Google Gemini for personalized guidance, LangGraph for stateful agentic workflows and emergency-query routing, and Qdrant for semantic retrieval of grounded medical context
+- **Tech Stack**: Gemini API • LangGraph • Qdrant • FastAPI • Vector Search
+- **Impact**: Deployed production system with 40% improved medical query relevance and 30% faster response times via caching pipelines
 
-### [LRI Index India](https://github.com/AdityaPrakash781/LRI_Index-India)
-**Location Resilience Index Platform**
-- **Description**: Comprehensive resilience analytics platform leveraging official Indian government datasets to compute location-based resilience metrics
-- **Tech Stack**: JavaScript • Government Data APIs • Data Processing Pipeline
-- **Impact**: Transforms raw government data into actionable intelligence for decision-makers
+### [Vidhan AI](https://github.com/AdityaPrakash781) — Agentic Legal Workflow Automation System
+**Multi-Agent Legal Automation Platform**
+- **Description**: Multi-agent backend automating legal drafting, research, and compliance tracking, powered by semantic embeddings, vector search, and a document intelligence pipeline with OCR and structured indexing
+- **Tech Stack**: NLP • Vector Search • Workflow Orchestration • REST APIs
+- **Impact**: Coordinates task-specific agents (Drafting, Research, Compliance) through a modular orchestration engine
 
-### [Portfolio](https://github.com/AdityaPrakash781/Portfolio)
-**Professional Portfolio & Showcase**
-- **Description**: Curated showcase of projects, expertise, and professional journey
-- **Tech Stack**: TypeScript • Modern Web Technologies
-- **Impact**: Clean, professional presentation of technical capabilities
+### Physics-Informed Spatio-Temporal GNN for Urban Heat Prediction
+**Graph Neural Network for Urban Heat Island Forecasting**
+- **Description**: Physics-guided spatio-temporal GNN forecasting next-hour urban air temperature across 1,867 spatial nodes, using Dynamic Causal Pruning of graph edges based on wind vector alignment
+- **Tech Stack**: PyTorch • PyTorch Geometric • GeoPandas • ERA5 Climate Data
+- **Impact**: Reduced training loss by 95% over 40 epochs and resolved GNN over-smoothing via PairNorm and residual connections
 
-### [Web Fundamentals](https://github.com/AdityaPrakash781/HTML-CSS-JS)
-**Front-End Development Foundation**
-- **Description**: Collection of HTML, CSS, and JavaScript implementations demonstrating core web development principles
-- **Tech Stack**: HTML • CSS • JavaScript
-- **Impact**: Solid foundation in frontend technologies with practical examples
+### Touchless UI & Air-Writing Interaction System
+**Gesture-Controlled Desktop Application**
+- **Description**: Cross-platform desktop app for touchless human-computer interaction, combining real-time gesture-based media control with spatial air-writing character recognition
+- **Tech Stack**: Python • OpenCV • TensorFlow • PyQt6 • MediaPipe
+- **Impact**: Achieved 94% gesture classification accuracy across 14 gestures with real-time character transcription
 
 ---
 
@@ -53,23 +53,27 @@ With expertise spanning **full-stack development**, **machine learning**, and **
 
 **Frontend & UI**
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![React Three Fiber](https://img.shields.io/badge/React%20Three%20Fiber-000000?style=flat-square&logo=react&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-- ![Recharts](https://img.shields.io/badge/Recharts-8DD6F3?style=flat-square&logo=chart.js&logoColor=black)
-- ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=react&logoColor=white)
+- ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
 
 **Backend & Infrastructure**
+- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-- ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=websocket&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 **AI/ML & Data**
+- ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+- ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+- ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 - ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6B35?style=flat-square)
-- ![Physics-Informed Neural Networks](https://img.shields.io/badge/PINN-0066CC?style=flat-square)
-- ![Explainable AI](https://img.shields.io/badge/Explainable%20AI-FF6B6B?style=flat-square)
+- ![Graph Neural Networks](https://img.shields.io/badge/Graph%20Neural%20Networks-0066CC?style=flat-square)
 
 **Developer Tools**
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -83,10 +87,10 @@ With expertise spanning **full-stack development**, **machine learning**, and **
 
 ## Currently Learning & Exploring
 
-- **Advanced ML Architectures**: Deepening expertise in Physics-Informed Neural Networks and their real-world applications
-- **Explainable AI**: Developing interpretable models for high-stakes decision-making scenarios
+- **Agentic AI Architectures**: Deepening expertise in multi-agent orchestration, persistent memory, and autonomous decision-making
+- **Advanced ML Architectures**: Exploring Graph Neural Networks and Physics-Informed Machine Learning for real-world applications
+- **Retrieval-Augmented Generation**: Refining RAG pipelines for grounded, domain-specific AI systems
 - **Scalable System Design**: Mastering distributed systems and cloud-native architecture patterns
-- **Emerging Technologies**: Staying current with developments in AI, edge computing, and IoT
 
 ---
 
@@ -102,8 +106,8 @@ I'm always open to collaborating on **innovative projects**, discussing **techni
 
 ### Fun Facts
 
-- I thrive at the intersection of **AI and infrastructure**
+- I thrive at the intersection of **AI and agentic systems**
 - Passionate about **production-grade solutions** that scale
 - Believer in **clean code** and **system design excellence**
 
-*Last updated: March 2026*
+*Last updated: July 2026*
